@@ -2,7 +2,7 @@
 import Logo from "./Logo";
 import Links from "./Links";
 import Quote from "./Quote";
-import Search from "./Search";
+//import Search from "./Search";
 import "./style.css";
 function Nav () {
     return (
@@ -11,7 +11,7 @@ function Nav () {
           <Logo />
           <Links />
           <Quote />
-          <Search/>
+          
         </div>
       </nav>
     );
