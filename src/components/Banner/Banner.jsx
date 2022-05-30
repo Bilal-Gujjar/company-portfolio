@@ -6,7 +6,7 @@ function Banner() {
         <div className="container">
           <h1>
             Let's Boost Your Business.
-            <br /> With The Latest Technology.
+            <br /> With The Latest State of Art Technology.
           </h1>
           <button className="btn btn-primary"> <a href="mailto:fullstackadim@consultant.com">Get In Touch</a></button>
         </div>
