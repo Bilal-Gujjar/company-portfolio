@@ -22,7 +22,7 @@ import { useState } from "react/";
               
             </h2>
             <div className="about__buttons" >
-              <button className="btn btn-primary"><a href="mailto:adim@consultant.com">Get In Touch</a></button>
+              <button className="btn btn-primary"><a href="mailto:Fullstackadim@consultant.com">Get In Touch</a></button>
               <a href="#services">
                 <span>Our Services</span>
                 <AiOutlineArrowDown />

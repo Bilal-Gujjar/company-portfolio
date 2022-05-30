@@ -15,7 +15,7 @@ class Testimony extends Component {
             15+ years of experience in IT industy 
           </p>
           <p className="text">
-            <strong style={{ color: "black" }}>Mayan Ali / </strong>
+            <strong style={{ color: "black" }}>Fahad / </strong>
             CTO @ Solux Technologies solutions
           </p>
         </div>

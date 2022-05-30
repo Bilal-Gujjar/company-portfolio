@@ -4,14 +4,14 @@ import { AiFillPhone } from "react-icons/ai";
 function Contact(){
     return (
       <div className="contact">
-        <a href="mailto:adim@consultant.com">
+        <a href="mailto:Fullstackadim@consultant.com">
           <AiFillMail />
-          <span>adim@consultant.com</span>
+          <span>Fullstackadim@consultant.com</span>
         </a>
 
-        <a href="tel:+1(600) 123-0000">
+        <a href="tel:+1(619) 637-7585">
           <AiFillPhone />
-          <span>+1(600)123-0000</span>
+          <span>+1(619) 637-7585</span>
         </a>
       </div>
     );
