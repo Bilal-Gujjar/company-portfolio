@@ -27,7 +27,7 @@ class ServicesComp extends Component {
               <GrShieldSecurity />
             </div>
             <h4>Data Science</h4>
-            <p>For the ata Science we are using the Python tech stack 
+            <p>For the Data Science we are using the Python tech stack 
               like Numpy ,Pandas etc.</p>
           </div>
           <div>

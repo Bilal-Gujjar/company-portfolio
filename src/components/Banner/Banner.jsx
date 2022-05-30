@@ -8,7 +8,7 @@ function Banner() {
             Let's Boost Your Business.
             <br /> With The Latest State of Art Technology.
           </h1>
-          <button className="btn btn-primary"> <a href="mailto:fullstackadim@consultant.com">Get In Touch</a></button>
+          <button className="btn btn-primary"> <a href="mailto:adim@consultant.com">Get In Touch</a></button>
         </div>
       </section>
     );

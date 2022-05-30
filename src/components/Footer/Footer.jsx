@@ -62,13 +62,13 @@ function Footer() {
             </address>
           </li>
           <li>
-            <a href="tel:+1(619) 637-7585" className="text">
-              Tel : +1(619) 637-7585
+            <a href="tel:+1(600) 123-0000" className="text">
+              Tel :+1(600) 123-0000
             </a>
           </li>
           <li>
-            <a href="mailto:fullstackadim@consultant.com" className="text">
-              Email: fullstackadim@consultant.com
+            <a href="mailto:adim@consultant.com" className="text">
+              Email: adim@consultant.com
             </a>
           </li>
         </ul>
