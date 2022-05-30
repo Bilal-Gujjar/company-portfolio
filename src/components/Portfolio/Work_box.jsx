@@ -1,0 +1,13 @@
+
+import "./style__work.css";
+function Work (props) {
+    return (
+      <div className="portfolio__work">
+        <img src={props.img} alt="" />
+        <h2>{props.title}</h2>
+        <p className="text">{props.text}</p>
+      </div>
+    );
+  }
+
+export default Work;
