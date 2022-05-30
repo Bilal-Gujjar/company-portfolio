@@ -8,6 +8,7 @@ class Services extends Component {
       <section id="services" className="container container__services">
         <Intro />
         <ServicesComp />
+        
       </section>
     );
   }

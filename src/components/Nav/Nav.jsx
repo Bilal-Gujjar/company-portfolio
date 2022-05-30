@@ -11,6 +11,7 @@ function Nav () {
           <Logo />
           <Links />
           <Quote />
+          <Search/>
         </div>
       </nav>
     );
