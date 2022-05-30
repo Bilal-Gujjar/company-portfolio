@@ -6,7 +6,7 @@ import "./style.css";
 import { useState } from "react/";
  function About(){
 
-  const [percentage, setPercentage] = useState(85);
+  const [percentage, setPercentage] = useState(92);
 
     return (
       <section className="about__container" >
