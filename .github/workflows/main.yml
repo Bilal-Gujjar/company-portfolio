@@ -34,4 +34,4 @@ jobs:
     - name: Install Surge
       run: npm install -g surge
     - name: Deploy to Surge 
-      run: surge ./build solux-sol.surge.sh --token ${{secrets.SURGE_TOKEN_REACT}}
+      run: surge ./build solux-soltech.surge.sh --token ${{secrets.SURGE_TOKEN_REACT}}
